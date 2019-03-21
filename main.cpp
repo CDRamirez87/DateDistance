@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "./src/datestruct.h"
+#include "./includes/datestruct.h"
 #include "./includes/funcdefs.h"
 
 //Originally written June, 29, 2015
